@@ -1,0 +1,5 @@
+NIM : 		23454
+Nama : 		fdsdfs
+Alamat : 		dgfgdf
+Mata Kuliah : 		gdfdfg
+Nilai Akhir : 		54.699999999999996
